@@ -1,2 +1,3 @@
-# data_science_portfolio
+# Data Science Portfolio
+
 Nice projects for self-learning
