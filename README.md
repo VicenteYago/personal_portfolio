@@ -13,5 +13,9 @@
 - [**IoT Weather Station**](https://github.com/VicenteYago/IoTWeatherStation)
 
 ## WORKSHOPS TEACHED
+
+[![IMAGE ALT TEXT HERE](https://github.com/VicenteYago/UMUR-webScraping/blob/main/media/img/yt.png)](https://www.youtube.com/watch?v=4i9YKPiVIrg&t=120s)
+
 - [**Web Scraping with R**](https://github.com/VicenteYago/UMUR-webScraping)
 - [**Deploying ML models with R**](https://github.com/VicenteYago/deployingMLinR)
+
