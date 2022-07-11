@@ -9,6 +9,7 @@
 - [**River Overflow in Cataluña**](https://github.com/VicenteYago/river_overflow) : Tordera River overflow assesment in Maresme County, Cataluña during Gloria storm.
 
 ## MISCELLANEOUS
+![iot-weather-composite](https://github.com/VicenteYago/data_science_portfolio/blob/main/imgs/IoTWeatherStation.png)
 - [**IoT Weather Station**](https://github.com/VicenteYago/IoTWeatherStation)
 
 ## WORKSHOPS TEACHED
