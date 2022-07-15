@@ -8,6 +8,11 @@
 - [**Soil Moisture Dataset**](https://github.com/VicenteYago/soil_moisture_dataset) : Satellite imagery dataset based on OPTRAM model outputs.
 - [**River Overflow in Cataluña**](https://github.com/VicenteYago/river_overflow) : Tordera River overflow assesment in Maresme County, Cataluña during Gloria storm.
 
+## CLASSIFICATION
+
+- [**Adult Income Classification**](https://github.com/VicenteYago/adult-classification)
+
+
 ## MISCELLANEOUS
 ![iot-weather-composite](https://github.com/VicenteYago/data_science_portfolio/blob/main/imgs/IoTWeatherStation.png)
 - [**IoT Weather Station**](https://github.com/VicenteYago/IoTWeatherStation)
