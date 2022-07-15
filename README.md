@@ -10,7 +10,12 @@
 
 ## CLASSIFICATION
 
-- [**Adult Income Classification**](https://github.com/VicenteYago/adult-classification)
+- [**Adult Income Classification**](https://github.com/VicenteYago/adult-classification) : Binary Classification, imbalanced dataset, GradientBoost, Logistic Regression, SMOTE, API REST Flask.
+
+## REGRESSION
+
+
+## TIME SERIES
 
 
 ## MISCELLANEOUS
