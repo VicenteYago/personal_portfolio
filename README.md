@@ -15,7 +15,7 @@
 ## REGRESSION - In progress ;)
 
 
-## TIME SERIES - In progress ;)
+## TIME SERIES
 - [**One shot MLP multivariate multistep forecast**](https://github.com/VicenteYago/ML-time-series-forecast) : keras, sklearn, statsmodels, pandas
 
 ## MISCELLANEOUS
