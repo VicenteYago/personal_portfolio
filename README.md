@@ -16,7 +16,7 @@
 
 
 ## TIME SERIES - In progress ;)
-
+- [**One shot MLP multivariate multistep forecast**](https://github.com/VicenteYago/ML-time-series-forecast) : keras, sklearn, statsmodels, pandas
 
 ## MISCELLANEOUS
 ![iot-weather-composite](https://github.com/VicenteYago/data_science_portfolio/blob/main/imgs/IoTWeatherStation.png)
