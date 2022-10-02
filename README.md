@@ -18,6 +18,10 @@
 ## TIME SERIES
 - [**One shot MLP multivariate multistep forecast**](https://github.com/VicenteYago/ML-time-series-forecast) : keras, sklearn, statsmodels, pandas
 
+## DATA ENGINEERING
+![](https://github.com/VicenteYago/steam-data-engineering/blob/main/img/steam.jpg)
+- [**Steam Data Engineering**](https://github.com/VicenteYago/steam-data-engineering) : terraform, airflow, gcp, S3, spark, BigQuery, etc
+
 ## MISCELLANEOUS
 ![iot-weather-composite](https://github.com/VicenteYago/data_science_portfolio/blob/main/imgs/IoTWeatherStation.png)
 - [**IoT Weather Station**](https://github.com/VicenteYago/IoTWeatherStation)
