@@ -8,16 +8,6 @@
 - [**Soil Moisture Dataset**](https://github.com/VicenteYago/soil_moisture_dataset) : Satellite imagery dataset based on OPTRAM model outputs.
 - [**River Overflow in Cataluña**](https://github.com/VicenteYago/river_overflow) : Tordera River overflow assesment in Maresme County, Cataluña during Gloria storm.
 
-## CLASSIFICATION
-
-- [**Adult Income Classification**](https://github.com/VicenteYago/adult-classification) : Binary Classification, imbalanced dataset, GradientBoost, Logistic Regression, SMOTE, API REST Flask.
-
-## REGRESSION - In progress ;)
-
-
-## TIME SERIES
-- [**One shot MLP multivariate multistep forecast**](https://github.com/VicenteYago/ML-time-series-forecast) : keras, sklearn, statsmodels, pandas
-
 ## DATA ENGINEERING
 ![](https://github.com/VicenteYago/steam-data-engineering/blob/main/img/steam.jpg)
 - [**Steam Data Engineering**](https://github.com/VicenteYago/steam-data-engineering) : terraform, airflow, gcp, S3, spark, BigQuery, etc
